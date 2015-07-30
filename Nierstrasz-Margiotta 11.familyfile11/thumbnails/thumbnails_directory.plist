@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>thumbnails_large</key>
+	<integer>37</integer>
+	<key>thumbnails_small</key>
+	<integer>42</integer>
+	<key>tn_large_count</key>
+	<integer>37</integer>
+	<key>tn_large_version</key>
+	<integer>166855</integer>
+	<key>tn_small_count</key>
+	<integer>42</integer>
+	<key>tn_small_version</key>
+	<integer>166855</integer>
+</dict>
+</plist>
